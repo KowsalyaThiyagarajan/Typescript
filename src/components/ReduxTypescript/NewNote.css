@@ -1,0 +1,23 @@
+.notes{
+    text-align: center;
+    padding-top: 15px;
+    background-color: lightblue;
+}
+
+.notes input{
+    width: 200px;
+height: 40px;
+border: 1px solid blue;
+border-radius: 8px;
+font-size: 15px;
+}
+
+.notes button{
+    width: 100px;
+    height: 50px;
+   
+}
+.newnotes{
+    text-align: center;
+    background-color: lavenderblush;
+}
